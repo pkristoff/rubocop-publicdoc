@@ -1,0 +1,16 @@
+# Write it!
+
+Style/PublicMethodDocumentation:
+  Description: 'TODO: Write a description of the cop.'
+  Enabled: pending
+  VersionAdded: '<<next>>'
+
+Style/PublicClassDocumentation:
+  Description: 'TODO: Write a description of the cop.'
+  Enabled: pending
+  VersionAdded: '<<next>>'
+
+# this added to allow tests to work
+Style/CommentAnnotation:
+  Keywords: []
+  Enabled: false

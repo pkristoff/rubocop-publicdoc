@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-
+puts 'starting console'
 require "bundler/setup"
 require "rubocop/publicdoc"
 

@@ -4,3 +4,8 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # Specify your gem's dependencies in rubocop-publicdoc.gemspec
 gemspec
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'rubocop-rails'
+gem 'rubocop-rspec'
